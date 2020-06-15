@@ -1,0 +1,8 @@
+token: "your token here"
+questions:
+  -
+    message: "What is 1+1"
+    answer: "2"
+  -
+    message: "What is the master race in TERA Online?"
+    answer: "Elin"
